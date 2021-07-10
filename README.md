@@ -16,7 +16,7 @@ This is a slingshot-type video game in Augmented Reality, which simulates some m
 Watch the following video: **[AR Slingshot Game in Unity with AR Foundation](AR Slingshot Game in Unity with AR Foundation)**  
 
 Once the application starts, the first thing you should do is look for a plane, just point the camera of your device towards a horizontal surface  
-<p align="center"><img src="readme_images/plane_detection.gif"/></p>
+<p align="center"><img src="readme_images/plane_selection.gif"/></p>
 
 ## Author :pencil:
 ### Santiago Peña Mosquera  
