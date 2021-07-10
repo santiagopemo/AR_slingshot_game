@@ -27,6 +27,7 @@ Grab and drop the pokeballs towards the Pikachus to catch them. At the top of th
 
 Finally when you find all the pikachus trapped or you run out of pokeballs you can access the **Leader Board** or **Play Again**  
 <p align="center"><img src="readme_images/leaderboard.gif"/></p>
+
 ## Author :pencil:
 ### Santiago Peña Mosquera  
 Mechatronic engineer and student of software development in holberton school, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
