@@ -2,6 +2,7 @@
 ## Description
 This is a slingshot-type video game in Augmented Reality, which simulates some mechanics of the popular Pokemon GO video game, created in Unity using the AR Foundation.  
 <p align="center"><img src="readme_images/description.PNG"/></p>
+
 ## Installation
 * If you want to edit the game:  
   * Download untity from its official site https://unity3d.com/es/get-unity/download
@@ -18,9 +19,9 @@ Watch the following video: **[AR Slingshot Game in Unity with AR Foundation](AR 
 Once the application starts, the first thing you should do is look for a plane, just point the camera of your device towards a horizontal surface  
 <p align="center"><img src="readme_images/plane_selection.gif"/></p>
 
-
 Once you have found one or more plans, select the one you want, the Pikachu and the **Start** Button will appear, press the button when you feel ready to start playing  
 <p align="center"><img src="readme_images/start.gif"/></p>
+
 Grab and drop the pokeballs towards the Pikachus to catch them. At the top of the screen you will see the number of remaining pokeballs and at the top your current score and two buttons, one to **Exit** the application and another to **Restart** it.
 
 ## Author :pencil:
