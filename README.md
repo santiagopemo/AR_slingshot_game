@@ -19,8 +19,9 @@ Once the application starts, the first thing you should do is look for a plane, 
 <p align="center"><img src="readme_images/plane_selection.gif"/></p>
 
 
-Once you have found one or more plans, select the one you want, the Pikachu and the Start Button will appear, press the button when you feel ready to start playing  
+Once you have found one or more plans, select the one you want, the Pikachu and the **Start** Button will appear, press the button when you feel ready to start playing  
 <p align="center"><img src="readme_images/start.gif"/></p>
+Grab and drop the pokeballs towards the Pikachus to catch them. At the top of the screen you will see the number of remaining pokeballs and at the top your current score and two buttons, one to **Exit** the application and another to **Restart** it.
 
 ## Author :pencil:
 ### Santiago Peña Mosquera  
