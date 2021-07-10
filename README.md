@@ -23,7 +23,10 @@ Once you have found one or more plans, select the one you want, the Pikachu and 
 <p align="center"><img src="readme_images/start.gif"/></p>
 
 Grab and drop the pokeballs towards the Pikachus to catch them. At the top of the screen you will see the number of remaining pokeballs and at the top your current score and two buttons, one to **Exit** the application and another to **Restart** it.
+<p align="center"><img src="readme_images/drop.gif"/></p>
 
+Finally when you find all the pikachus trapped or you run out of pokeballs you can access the **Leader Board** or **Play Again**  
+<p align="center"><img src="readme_images/leaderboard.gif"/></p>
 ## Author :pencil:
 ### Santiago Peña Mosquera  
 Mechatronic engineer and student of software development in holberton school, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
