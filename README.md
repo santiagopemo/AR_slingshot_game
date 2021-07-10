@@ -18,6 +18,10 @@ Watch the following video: **[AR Slingshot Game in Unity with AR Foundation](AR 
 Once the application starts, the first thing you should do is look for a plane, just point the camera of your device towards a horizontal surface  
 <p align="center"><img src="readme_images/plane_selection.gif"/></p>
 
+
+Once you have found one or more plans, select the one you want, the Pikachu and the Start Button will appear, press the button when you feel ready to start playing  
+<p align="center"><img src="readme_images/start.gif"/></p>
+
 ## Author :pencil:
 ### Santiago Peña Mosquera  
 Mechatronic engineer and student of software development in holberton school, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
